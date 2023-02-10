@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Qewhouse&color=green)
 [![codewars](https://www.codewars.com/users/Qewhouse/badges/micro)](https://www.codewars.com/users/Qewhouse)
+<a href="https://www.buymeacoffee.com/qewhouse" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 80px !important;" ></a>
 ![IOS](https://user-images.githubusercontent.com/31271156/217862106-6e07ac54-b095-458c-9e20-90e6446d4dd6.png)
 <h1 align="center">Hi there, I'm Alexander Altman👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=550&height=30&lines=iOS+Developer+from+Saint-Petersburg%2C+Russia" alt="Typing SVG" /></a>
@@ -46,15 +47,18 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <img src="https://user-images.githubusercontent.com/31271156/218015463-06aecf99-c83a-4507-abab-f11b09dc6669.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015465-d1b23987-8416-4aea-bdb2-1736c5b29cb6.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015468-2e880c06-ae3a-411f-8ad1-1c7e758ab409.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" /></h2>
- 
+<h4> 
 <li>Object oriented programming (OOP)</li>
 <li>Design Patterns</li>
 <li>Software architecture (MVC, MVP, MVVM)</li>
 <li>Auto Layout</li>
 <li>Multithreading</li>
 <li>Fork</li>
+  </h4>
 <h2> 
 
 <h2>Contact Information<br>
+  <h3>
 <li><img src="https://user-images.githubusercontent.com/31271156/218016469-28d0c04e-bcf0-4517-a59a-263adb610930.svg" width="25" height="25" align="center" border="3" hspace="10" vspace="10" /> <a href="https://msngr.link/tg/qewhouse">Qewhouse</a></li>
 <li><img src="https://user-images.githubusercontent.com/31271156/218015456-92e55195-4b7c-49c0-815f-76889be5ac6f.svg" width="25" height="25" align="center" border="3" hspace="10" vspace="10" /> <a href="https://www.linkedin.com/in/alexander-altman-a3b23b24/">Alexander Altman</a></li>
+  </h3>
