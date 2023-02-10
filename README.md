@@ -36,5 +36,5 @@
 <h2> 
 
 <h2>Contact Information<br>
-<li><img src="https://user-images.githubusercontent.com/31271156/218016469-28d0c04e-bcf0-4517-a59a-263adb610930.svg" width="25" height="25" align="center" border="3" hspace="10" vspace="10" /> @Qewhouse</li> <a href="tg://resolve?domain=Qewhouse">Qewhouse</a>
+<li><img src="https://user-images.githubusercontent.com/31271156/218016469-28d0c04e-bcf0-4517-a59a-263adb610930.svg" width="25" height="25" align="center" border="3" hspace="10" vspace="10" /> <a href="https://tele.click/{Qewhouse}">Qewhouse</a></li>
 <li><img src="https://user-images.githubusercontent.com/31271156/218015456-92e55195-4b7c-49c0-815f-76889be5ac6f.svg" width="25" height="25" align="center" border="3" hspace="10" vspace="10" /></li>
