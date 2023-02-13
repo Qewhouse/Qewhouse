@@ -42,7 +42,7 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <img src="https://user-images.githubusercontent.com/31271156/218015474-e11986c3-4c5b-41c6-8718-1174443caf25.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015458-0c2f2588-8665-42d3-81e4-f42e1fa355a1.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015459-db976016-c95d-4324-a9d2-482293c710b5.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://user-images.githubusercontent.com/31271156/218015462-50482494-441e-411a-b438-9f1a7e893ff1.svg" width="40" height="60" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://user-images.githubusercontent.com/31271156/218015462-50482494-441e-411a-b438-9f1a7e893ff1.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218020573-31b03f6b-0be3-422d-92d6-d2c3a37a13dc.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015463-06aecf99-c83a-4507-abab-f11b09dc6669.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015465-d1b23987-8416-4aea-bdb2-1736c5b29cb6.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
