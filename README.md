@@ -52,6 +52,7 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <li>Design Patterns</li>
 <li>Software architecture (MVC, MVP, MVVM)</li>
 <li>Auto Layout</li>
+<li>SnapKit</li>
 <li>Multithreading</li>
 <li>Fork</li>
   </h4>
