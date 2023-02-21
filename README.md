@@ -56,7 +56,6 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <li>SnapKit</li>
 <li>Multithreading</li>
 <li>Fork</li>
-<li>Adobe XD</li>
   </h4>
 <h2> 
 
