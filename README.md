@@ -30,8 +30,7 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Qewhouse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qewhouse&show_icons=true&theme=merko)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Qewhouse&theme=dark&border_radius=1&sideNums=69CB29&sideLabels=69CB29&fire=69CB29&ring=69CB29&currStreakLabel=69CB29&currStreakNum=329D13&dates=69CB29)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qewhouse&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Qewhouse&theme=dark&border_radius=1&sideNums=69CB29&sideLabels=69CB29&fire=69CB29&ring=69CB29&currStreakLabel=69CB29&currStreakNum=329D13&dates=69CB29)](https://git.io/streak-stats)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qewhouse&theme=github_dark)
   
   
 
