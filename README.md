@@ -16,9 +16,9 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <li>Basics of application development for iOS, iPadOS and macOS by Vasiliy Usov</li>
 <li>Development of iOS applications on UIKit framework by Vasiliy Usov</li>
 <li>Modern Auto Layout (Building Adaptive Layouts for iOS) by Keith Harrison</li>
-<li>Head First Swift by Paris Buttfield-Addison, Jon Manning</li>
+<li>Head First Swift by Paris Buttfield-Addison and Jon Manning</li>
 <li>Head First Git by Raju Gandhi</li>
-<li>Head First Design Patterns by  Eric Freeman, Elisabeth Robson</li>
+<li>Head First Design Patterns by Eric Freeman and Elisabeth Robson</li>
   
 <br>
   <b><i>Current activities:</i></b>
