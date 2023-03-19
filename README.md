@@ -53,13 +53,13 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <img src="https://i.ibb.co/Mc04TN1/macOS.jpg" alt="macOS" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://svgshare.com/i/rGM.svg" alt="Markdown" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://i.ibb.co/9970jHH/adobe-xd-logo-png-transparent.png" alt="AdobeXD" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="AdobeXD" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015465-d1b23987-8416-4aea-bdb2-1736c5b29cb6.svg" alt="Canva" width="40" height="40" align="center" border="3" hspace="10" vspace="10" /> </h2>
 <h4> 
 <li>Object oriented programming (OOP)</li>
 <li>Design Patterns</li>
 <li>Software architecture (MVC, MVP, MVVM)</li>
-<li>Auto Layout, SnapKit</li>
+<li>Frame based layout, Auto Layout, SnapKit</li>
 <li>Multithreading</li>
 <li>Fork</li>
   </h4>
