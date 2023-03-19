@@ -40,8 +40,8 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <h2>Technical Stack<br></h2>
 <h2><img src="https://user-images.githubusercontent.com/31271156/218011972-0db314e6-1e4e-4fe5-9375-9868977f6a13.svg" alt="xCode" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218011977-3d9a0f29-70cc-4c59-8ce4-ef65fc20703c.svg" alt="Swift" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://user-images.githubusercontent.com/31271156/218014006-7de935ef-1d51-47ae-bdef-fb625078da76.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://raw.githubusercontent.com/VladimirFibe/VladimirFibe/main/Assets/coredata.png" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://user-images.githubusercontent.com/31271156/218014006-7de935ef-1d51-47ae-bdef-fb625078da76.svg" alt="UIKit" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://raw.githubusercontent.com/VladimirFibe/VladimirFibe/main/Assets/coredata.png" alt="CoreData" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015469-305d1b88-0bc6-4a56-8c07-a31a12108533.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015473-7dabd5f5-7e05-4b48-b9a7-fa61426cceb5.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
