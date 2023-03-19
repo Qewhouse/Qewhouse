@@ -42,19 +42,19 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <img src="https://user-images.githubusercontent.com/31271156/218011977-3d9a0f29-70cc-4c59-8ce4-ef65fc20703c.svg" alt="Swift" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218014006-7de935ef-1d51-47ae-bdef-fb625078da76.svg" alt="UIKit" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://raw.githubusercontent.com/VladimirFibe/VladimirFibe/main/Assets/coredata.png" alt="CoreData" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://user-images.githubusercontent.com/31271156/218015469-305d1b88-0bc6-4a56-8c07-a31a12108533.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://user-images.githubusercontent.com/31271156/218015469-305d1b88-0bc6-4a56-8c07-a31a12108533.svg" alt="Realm" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://i.ibb.co/M1P4vJ3/json.png" alt="json" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />  
-<img src="https://user-images.githubusercontent.com/31271156/218015474-e11986c3-4c5b-41c6-8718-1174443caf25.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://user-images.githubusercontent.com/31271156/218015458-0c2f2588-8665-42d3-81e4-f42e1fa355a1.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />  
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://svgshare.com/i/rFA.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://user-images.githubusercontent.com/31271156/218015474-e11986c3-4c5b-41c6-8718-1174443caf25.svg" alt="Git" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://user-images.githubusercontent.com/31271156/218015458-0c2f2588-8665-42d3-81e4-f42e1fa355a1.svg" alt="Cocoapods" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />  
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://svgshare.com/i/rFA.svg" alt="iOS" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://i.ibb.co/Mc04TN1/macOS.jpg" alt="macOS" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://svgshare.com/i/rGM.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://i.ibb.co/9970jHH/adobe-xd-logo-png-transparent.png" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://user-images.githubusercontent.com/31271156/218015465-d1b23987-8416-4aea-bdb2-1736c5b29cb6.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" /> </h2>
+<img src="https://svgshare.com/i/rGM.svg" alt="Markdown" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://i.ibb.co/9970jHH/adobe-xd-logo-png-transparent.png" alt="AdobeXD" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://user-images.githubusercontent.com/31271156/218015465-d1b23987-8416-4aea-bdb2-1736c5b29cb6.svg" alt="Canva" width="40" height="40" align="center" border="3" hspace="10" vspace="10" /> </h2>
 <h4> 
 <li>Object oriented programming (OOP)</li>
 <li>Design Patterns</li>
