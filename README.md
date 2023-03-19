@@ -44,7 +44,7 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <img src="https://raw.githubusercontent.com/VladimirFibe/VladimirFibe/main/Assets/coredata.png" alt="CoreData" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015469-305d1b88-0bc6-4a56-8c07-a31a12108533.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
-<img src="https://user-images.githubusercontent.com/31271156/218015473-7dabd5f5-7e05-4b48-b9a7-fa61426cceb5.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
+<img src="https://i.ibb.co/M1P4vJ3/json.png" alt="json" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />  
 <img src="https://user-images.githubusercontent.com/31271156/218015474-e11986c3-4c5b-41c6-8718-1174443caf25.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015458-0c2f2588-8665-42d3-81e4-f42e1fa355a1.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />  
