@@ -59,9 +59,10 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <li>Object oriented programming (OOP)</li>
 <li>Design Patterns</li>
 <li>Software architecture (MVC, MVP, MVVM)</li>
-<li>Frame based layout, Auto Layout, SnapKit</li>
+<li>Frame based layout, Auto Layout, SnapKit, Storyboard, XIB</li>
 <li>Multithreading, ARC, GCD</li>
-<li>Fork</li>
+<li>SOLID, KISS, DRY, YAGNI</li>  
+<li>Fork, Terminal</li>
   </h4>
 <h2> 
 
