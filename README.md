@@ -57,7 +57,7 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="AdobeXD" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218015465-d1b23987-8416-4aea-bdb2-1736c5b29cb6.svg" alt="Canva" width="40" height="40" align="center" border="3" hspace="10" vspace="10" /> </h2>
 <h4> 
-<li>Object oriented programming (OOP)</li>
+<li>Object oriented programming</li>
 <li>Design Patterns</li>
 <li>Software architecture (MVC, MVP, MVVM)</li>
 <li>Frame based layout, Auto Layout, SnapKit, Storyboard, XIB</li>
