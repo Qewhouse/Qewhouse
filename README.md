@@ -56,7 +56,7 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <h4> 
 <li>Object oriented programming</li>
 <li>Design Patterns</li>
-<li>Software architecture (MVC, MVP, MVVM+C)</li>
+<li>Software architecture (MVC, MVP, MVVM+Coordinator)</li>
 <li>Frame based layout, Auto Layout, SnapKit, Storyboard, XIB</li>
 <li>Multithreading, ARC, GCD</li>
 <li>SOLID, KISS, DRY, YAGNI</li>  
