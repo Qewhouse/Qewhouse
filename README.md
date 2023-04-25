@@ -19,18 +19,18 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <li>Head First Swift by Paris Buttfield-Addison and Jon Manning</li>
 <li>Head First Git by Raju Gandhi</li>
 <li>Head First Design Patterns by Eric Freeman and Elisabeth Robson</li>
- 
+
 <br>
   <b><i>Current activities:</i></b>
 <li>Swift Marathon 6.0 (mentor and teamlead)</li>
 <li>Swift Marathon 7.0 (mentor, code reviewer and teamlead)</li>
 <li>Several commercial start-ups</li>
 <li>Continue studying as studying is life</li>
-  
+
 <h2>GitHub Stats</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Qewhouse&theme=onedark&no-bg=true&title=Commits,PR,Repo,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qewhouse&show_icons=true&theme=merko)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Qewhouse&theme=merko&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qewhouse&theme=github_dark)
