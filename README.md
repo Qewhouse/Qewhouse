@@ -34,7 +34,7 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qewhouse&show_icons=true&theme=merko)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Qewhouse&theme=merko&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qewhouse&theme=github_dark)
-  
+
 <h2>Technical Stack<br></h2>
 <h2><img src="https://user-images.githubusercontent.com/31271156/218011972-0db314e6-1e4e-4fe5-9375-9868977f6a13.svg" alt="xCode" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
 <img src="https://user-images.githubusercontent.com/31271156/218011977-3d9a0f29-70cc-4c59-8ce4-ef65fc20703c.svg" alt="Swift" width="40" height="40" align="center" border="3" hspace="10" vspace="10" />
