@@ -26,7 +26,7 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <li>Swift Marathon 7.0 (mentor, code reviewer and teamlead)</li>
 <li>Several commercial start-ups</li>
 <li>Continue studying as studying is life</li>
-
+  
 <h2>GitHub Stats</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Qewhouse&theme=onedark&no-bg=true&title=Commits,PR,Repo,Followers)](https://github.com/ryo-ma/github-profile-trophy)
