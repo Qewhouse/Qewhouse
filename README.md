@@ -7,7 +7,7 @@
 <h2>Skills and Experience</h2>
 I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the moment. I do enjoy Swift programming language, native frameworks and third parties dependencies.<br>
 <br>
-  <b><i>I’ve graduated the following courses:</i></b>
+<b><i>I’ve graduated the following courses:</i></b>
 <li>The Complete iOS App Development Bootcamp by Angela Yu</li>
 <li>Swift Marathon 4.0</li>
 <li>Swift Marathon 5.0</li>
