@@ -19,7 +19,7 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
 <li>Head First Swift by Paris Buttfield-Addison and Jon Manning</li>
 <li>Head First Git by Raju Gandhi</li>
 <li>Head First Design Patterns by Eric Freeman and Elisabeth Robson</li>
-
+  
 <br>
 <b><i>Current activities:</i></b>
 <li>Swift Marathon 6.0 (mentor and teamlead)</li>
