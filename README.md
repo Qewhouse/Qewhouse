@@ -22,8 +22,7 @@ I'm Alexander from Saint-Petersburg, Russia. I'm studying iOS Development at the
        
 <br>
 <b><i>Current activities:</i></b>
-<li>Swift Marathon 6.0 (mentor and teamlead)</li>
-<li>Swift Marathon 7.0 (mentor, code reviewer and teamlead)</li>
+<li>DevRush Community mentor, code reviewer and teamlead</li>
 <li>Several commercial start-ups</li>
 <li>Continue studying as studying is life</li>
 
